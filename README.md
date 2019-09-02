@@ -1,7 +1,7 @@
 # my-first-blog
-for demo in mc
+demo for workshop
  
-to-load:
+to publish a local repo:
 ```
 git remote add origin https://github.com/imciflam/my-first-blog.git
 git push -u origin master
